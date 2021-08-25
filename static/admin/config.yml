@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: eshagit/netlifygatsby
+  repo: eshagit/netlify-cms-tutorial
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
